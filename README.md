@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Simulando um Conta Bancária
+Simulando uma Conta Bancária
